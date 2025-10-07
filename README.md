@@ -1,4 +1,4 @@
-## Bem vindos! 👋
+## 💻 💡 💻 
 ### Olá, Dev´s! 👋
 
 Meu nome é Gabriel e sou um estudante de ADS apaixonado por tecnologia e programação. Este é o meu espaço no GitHub, onde registro minha jornada de aprendizado, desde os primeiros passos até projetos mais complexos.

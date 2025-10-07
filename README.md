@@ -31,4 +31,4 @@ Cada commit é um passo na minha evolução como programador.
 -   **Email:** gabriel.ssilva107@gmail.com
 
 ---
-_A jornada de mil milhas começa com o primeiro passo._ ✨
+_A jornada de mil kilometros começa com o primeiro passo._ ✨
